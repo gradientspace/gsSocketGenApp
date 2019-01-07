@@ -19,3 +19,6 @@
 [submodule "Assets/gsGCode"]
 	path = Assets/gsGCode
 	url = https://github.com/gradientspace/gsGCode
+[submodule "Assets/gsSlicer"]
+	path = Assets/gsSlicer
+	url = https://github.com/gradientspace/gsSlicer
